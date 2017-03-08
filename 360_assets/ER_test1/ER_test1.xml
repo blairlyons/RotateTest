@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/ER_test1_00000.png" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" />
+  </settings>
+  <hotspots />
+  <images rows="1">
+    <image src="images/ER_test1_00000.png" />
+    <image src="images/ER_test1_00001.png" />
+    <image src="images/ER_test1_00002.png" />
+    <image src="images/ER_test1_00003.png" />
+    <image src="images/ER_test1_00004.png" />
+    <image src="images/ER_test1_00005.png" />
+    <image src="images/ER_test1_00006.png" />
+    <image src="images/ER_test1_00007.png" />
+    <image src="images/ER_test1_00008.png" />
+    <image src="images/ER_test1_00009.png" />
+    <image src="images/ER_test1_00010.png" />
+    <image src="images/ER_test1_00011.png" />
+    <image src="images/ER_test1_00012.png" />
+    <image src="images/ER_test1_00013.png" />
+    <image src="images/ER_test1_00014.png" />
+    <image src="images/ER_test1_00015.png" />
+    <image src="images/ER_test1_00016.png" />
+    <image src="images/ER_test1_00017.png" />
+    <image src="images/ER_test1_00018.png" />
+    <image src="images/ER_test1_00019.png" />
+    <image src="images/ER_test1_00020.png" />
+    <image src="images/ER_test1_00021.png" />
+    <image src="images/ER_test1_00022.png" />
+    <image src="images/ER_test1_00023.png" />
+    <image src="images/ER_test1_00024.png" />
+    <image src="images/ER_test1_00025.png" />
+    <image src="images/ER_test1_00026.png" />
+    <image src="images/ER_test1_00027.png" />
+    <image src="images/ER_test1_00028.png" />
+    <image src="images/ER_test1_00029.png" />
+    <image src="images/ER_test1_00030.png" />
+    <image src="images/ER_test1_00031.png" />
+    <image src="images/ER_test1_00032.png" />
+    <image src="images/ER_test1_00033.png" />
+    <image src="images/ER_test1_00034.png" />
+    <image src="images/ER_test1_00035.png" />
+    <image src="images/ER_test1_00036.png" />
+    <image src="images/ER_test1_00037.png" />
+    <image src="images/ER_test1_00038.png" />
+    <image src="images/ER_test1_00039.png" />
+    <image src="images/ER_test1_00040.png" />
+    <image src="images/ER_test1_00041.png" />
+    <image src="images/ER_test1_00042.png" />
+    <image src="images/ER_test1_00043.png" />
+    <image src="images/ER_test1_00044.png" />
+    <image src="images/ER_test1_00045.png" />
+    <image src="images/ER_test1_00046.png" />
+    <image src="images/ER_test1_00047.png" />
+    <image src="images/ER_test1_00048.png" />
+    <image src="images/ER_test1_00049.png" />
+    <image src="images/ER_test1_00050.png" />
+    <image src="images/ER_test1_00051.png" />
+    <image src="images/ER_test1_00052.png" />
+    <image src="images/ER_test1_00053.png" />
+    <image src="images/ER_test1_00054.png" />
+    <image src="images/ER_test1_00055.png" />
+    <image src="images/ER_test1_00056.png" />
+    <image src="images/ER_test1_00057.png" />
+    <image src="images/ER_test1_00058.png" />
+    <image src="images/ER_test1_00059.png" />
+    <image src="images/ER_test1_00060.png" />
+    <image src="images/ER_test1_00061.png" />
+    <image src="images/ER_test1_00062.png" />
+    <image src="images/ER_test1_00063.png" />
+    <image src="images/ER_test1_00064.png" />
+    <image src="images/ER_test1_00065.png" />
+    <image src="images/ER_test1_00066.png" />
+    <image src="images/ER_test1_00067.png" />
+    <image src="images/ER_test1_00068.png" />
+    <image src="images/ER_test1_00069.png" />
+    <image src="images/ER_test1_00070.png" />
+    <image src="images/ER_test1_00071.png" />
+    <image src="images/ER_test1_00072.png" />
+    <image src="images/ER_test1_00073.png" />
+    <image src="images/ER_test1_00074.png" />
+    <image src="images/ER_test1_00075.png" />
+    <image src="images/ER_test1_00076.png" />
+    <image src="images/ER_test1_00077.png" />
+    <image src="images/ER_test1_00078.png" />
+    <image src="images/ER_test1_00079.png" />
+    <image src="images/ER_test1_00080.png" />
+    <image src="images/ER_test1_00081.png" />
+    <image src="images/ER_test1_00082.png" />
+    <image src="images/ER_test1_00083.png" />
+    <image src="images/ER_test1_00084.png" />
+    <image src="images/ER_test1_00085.png" />
+    <image src="images/ER_test1_00086.png" />
+    <image src="images/ER_test1_00087.png" />
+    <image src="images/ER_test1_00088.png" />
+    <image src="images/ER_test1_00089.png" />
+    <image src="images/ER_test1_00090.png" />
+    <image src="images/ER_test1_00091.png" />
+    <image src="images/ER_test1_00092.png" />
+    <image src="images/ER_test1_00093.png" />
+    <image src="images/ER_test1_00094.png" />
+    <image src="images/ER_test1_00095.png" />
+    <image src="images/ER_test1_00096.png" />
+    <image src="images/ER_test1_00097.png" />
+    <image src="images/ER_test1_00098.png" />
+    <image src="images/ER_test1_00099.png" />
+  </images>
+</config>

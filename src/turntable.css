@@ -1,0 +1,19 @@
+.turntable {
+  display: inline-block;
+  margin: 0px; }
+.turntable ul {
+  padding: 0px;
+  margin: 0px; }
+.turntable ul li {
+  list-style-type: none;
+  position: absolute;
+  top:0px;
+  left: -10000px;
+/*  display: none; */
+}
+.turntable ul li img {
+  width: 100%; }
+.turntable ul li.active {
+  left: 0px;
+/*  display: block; */
+}

@@ -54,7 +54,7 @@
     <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
     <script src="src/turntable.min.js"></script>
 
-    <script>
+    <script type="text/javascript">
         
         $('#myTurntable').turntable();
         preload();
@@ -62,6 +62,7 @@
         function preload() 
         {
             console.log("preloaded");
+            var images = [];
             for (var i = 0; i < 33; i++)
             {
                 var n = i.toString();
@@ -69,8 +70,8 @@
                 {
                     n = "0" + n;
                 }
-                var img = new Image();
-                img.src = "img/ER_test1_" + n + ".jpg";
+                images[i] = new Image();
+                images[i].src = "img/ER_test1_" + n + ".jpg";
             }
         }
         

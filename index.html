@@ -57,22 +57,20 @@
     <script>
         
         $('#myTurntable').turntable();
+        preload();
         
-        function preloader() 
+        function preload() 
         {
-            if (document.images) 
+            console.log("preloaded");
+            for (var i = 0; i < 33; i++)
             {
-                console.log("preloaded");
-                for (var i = 0; i < 33; i++)
+                var n = i.toString();
+                if (i < 10)
                 {
-                    var n = i.toString();
-                    if (1 < 10)
-                    {
-                        n = "0" + n;
-                    }
-                    var img = new Image();
-                    img.src = "img/ER_test1_" + n + ".jpg";
+                    n = "0" + n;
                 }
+                var img = new Image();
+                img.src = "img/ER_test1_" + n + ".jpg";
             }
         }
         

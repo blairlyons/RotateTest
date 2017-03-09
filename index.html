@@ -50,6 +50,43 @@
       </ul>
     </div>
     
+    <div id="preloadImages" style="display: none">
+        <img src="img/ER_test1_00.jpg" />
+        <img src="img/ER_test1_01.jpg" />
+        <img src="img/ER_test1_02.jpg" />
+        <img src="img/ER_test1_03.jpg" />
+        <img src="img/ER_test1_04.jpg" />
+        <img src="img/ER_test1_05.jpg" />
+        <img src="img/ER_test1_06.jpg" />
+        <img src="img/ER_test1_07.jpg" />
+        <img src="img/ER_test1_08.jpg" />
+        <img src="img/ER_test1_09.jpg" />
+        <img src="img/ER_test1_10.jpg" />
+        <img src="img/ER_test1_11.jpg" />
+        <img src="img/ER_test1_12.jpg" />
+        <img src="img/ER_test1_13.jpg" />
+        <img src="img/ER_test1_14.jpg" />
+        <img src="img/ER_test1_15.jpg" />
+        <img src="img/ER_test1_16.jpg" />
+        <img src="img/ER_test1_17.jpg" />
+        <img src="img/ER_test1_18.jpg" />
+        <img src="img/ER_test1_19.jpg" />
+        <img src="img/ER_test1_20.jpg" />
+        <img src="img/ER_test1_21.jpg" />
+        <img src="img/ER_test1_22.jpg" />
+        <img src="img/ER_test1_23.jpg" />
+        <img src="img/ER_test1_24.jpg" />
+        <img src="img/ER_test1_25.jpg" />
+        <img src="img/ER_test1_26.jpg" />
+        <img src="img/ER_test1_27.jpg" />
+        <img src="img/ER_test1_28.jpg" />
+        <img src="img/ER_test1_29.jpg" />
+        <img src="img/ER_test1_30.jpg" />
+        <img src="img/ER_test1_31.jpg" />
+        <img src="img/ER_test1_32.jpg" />
+        <img src="img/ER_test1_33.jpg" />
+    </div>
+    
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
     <script src="src/turntable.min.js"></script>
@@ -57,23 +94,6 @@
     <script type="text/javascript">
         
         $('#myTurntable').turntable();
-        preload();
-        
-        function preload() 
-        {
-            console.log("preloaded");
-            var images = [];
-            for (var i = 0; i < 33; i++)
-            {
-                var n = i.toString();
-                if (i < 10)
-                {
-                    n = "0" + n;
-                }
-                images[i] = new Image();
-                images[i].src = "img/ER_test1_" + n + ".jpg";
-            }
-        }
         
     </script>
 
